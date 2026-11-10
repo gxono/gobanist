@@ -1,5 +1,7 @@
 # gobanist
 
+[![Typst Universe](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgxono%2Fgobanist%2Fmain%2Ftypst.toml&query=%24.package.version&logo=typst&label=universe&color=%2339cccc)](https://typst.app/universe/package/gobanist)
+
 Boards, positions, game diagrams and tsumego problems of the board game Go (baduk, weiqi, igo) for Typst,
 read from SGF files or written by hand. It is a port of
 [pgf-go](https://ctan.org/pkg/pgf-go), the LaTeX package by the same author.
